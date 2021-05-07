@@ -22,7 +22,7 @@ Go to [Google!](https://google.com)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Tyschoice2
-<img src="https://github.com/Soccer/pic/soccerball.svg? sanitize=true" alt="Soccer.Imagesharp" width="140">
+<img src="pic_trulli.jpg" alt="Italian Trulli">
 
 ## Tyschoice3
 
