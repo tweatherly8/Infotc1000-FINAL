@@ -25,7 +25,7 @@ Go to [Google!](https://google.com)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Tyschoice2
-![](soccerball/filename%20soccerball.svg)
+<img src="soccerball/soccerball.svg" width="100" height="10">
 
 ## Tyschoice3
 
