@@ -1,4 +1,4 @@
-# Infotc1000-FINAL 
+# <i> Infotc1000-FINAL </i>
 [![python](https://img.shields.io/static/v1?label=python&message=3.7&color=<COLOR>)](https://www.python.org/)&nbsp;
 [![js](https://img.shields.io/static/v1?label=javascript&message=1.8.5&color=<COLOR>)](https://www.javascript.com/)&nbsp;
 ###contents
@@ -13,16 +13,19 @@
 Go to [Google!](https://google.com)
 
 -[x] Favorite color: Orange
+
 -[x] Favorite sport: Soccer
+
 -[x] Favorite food: IceCream
+
 -[] Favorite season: Summer
 
 ## Tyschoice1
-[algorithms repo readme](https://github.com/TheAlgorithms/Python/blob/master/README.md)
+[Soccer Cleats](https://github.com/TheAlgorithms/Python/blob/master/README.md)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Tyschoice2
-<img src="soccerball.svg" alt="Soccer Ball">
+![](soccerball/filename%20soccerball.svg)
 
 ## Tyschoice3
 
