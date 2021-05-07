@@ -8,7 +8,7 @@
 4. [Tyschoice4](#Tyschoice4)
 5. [Tyschoice5](#Tyschoice5)
 
-**About me** I graduated from Ray-Pec Highschool* I am going into my Juinior year of college next year and continuing to learn about Information Technology* During my times not spent at school I manage a pool over the summer in my old neighborhood. When I am here in columbia I work at Midway Golf and Games.
+<head>**About me** I graduated from Ray-Pec Highschool* I am going into my Juinior year of college next year and continuing to learn about Information Technology* During my times not spent at school I manage a pool over the summer in my old neighborhood. When I am here in columbia I work at Midway Golf and Games.</head>
 
 Go to [Google!](https://google.com)
 
