@@ -21,7 +21,7 @@ Go to [Google!](https://google.com)
 -[] Favorite season: Summer
 
 ## Tyschoice1
-[Soccer Cleats](https://github.com/TheAlgorithms/Python/blob/master/README.md)
+![Soccer Cleats](https://github.com/TheAlgorithms/Python/blob/master/README.md)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Tyschoice2
