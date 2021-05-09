@@ -1,4 +1,6 @@
-# <i> Infotc1000-FINAL </i>
+<!DOCTYPE html>
+<html>
+# <title><i> Infotc1000-FINAL </i></title>
 [![python](https://img.shields.io/static/v1?label=python&message=3.7&color=<COLOR>)](https://www.python.org/)&nbsp;
 [![js](https://img.shields.io/static/v1?label=javascript&message=1.8.5&color=<COLOR>)](https://www.javascript.com/)&nbsp;
 ###contents
@@ -32,3 +34,4 @@ Go to [Google!](https://google.com)
 ## Tyschoice4
 
 ## Tyschoice5
+</html>
