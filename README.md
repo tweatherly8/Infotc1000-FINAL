@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
- <title><i> #Infotc1000-FINAL </i></title>
+<i> Infotc1000-FINAL </i>
 
 ###contents
 1. [Tyschoice1](#Tyschoice1)
@@ -9,7 +9,7 @@
 4. [Tyschoice4](#Tyschoice4)
 5. [Tyschoice5](#Tyschoice5)
 
-<head>**About me** I graduated from Ray-Pec Highschool* I am going into my Juinior year of college next year and continuing to learn about Information Technology* During my times not spent at school I manage a pool over the summer in my old neighborhood. When I am here in columbia I work at Midway Golf and Games.</head>
+<script>**About me** I graduated from Ray-Pec Highschool* I am going into my Juinior year of college next year and continuing to learn about Information Technology* During my times not spent at school I manage a pool over the summer in my old neighborhood. When I am here in columbia I work at Midway Golf and Games.</script>
 
 Go to [Google!](https://google.com)
 
@@ -33,4 +33,8 @@ Go to [Google!](https://google.com)
 ## Tyschoice4
 
 ## Tyschoice5
+<body onload="TysChoice()">
+<div id="display">
+</div>
+</body>
 </html>
