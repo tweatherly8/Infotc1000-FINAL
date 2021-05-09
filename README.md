@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
-# <title><i> Infotc1000-FINAL </i></title>
-[![python](https://img.shields.io/static/v1?label=python&message=3.7&color=<COLOR>)](https://www.python.org/)&nbsp;
-[![js](https://img.shields.io/static/v1?label=javascript&message=1.8.5&color=<COLOR>)](https://www.javascript.com/)&nbsp;
+ <title><i> #Infotc1000-FINAL </i></title>
+
 ###contents
 1. [Tyschoice1](#Tyschoice1)
 2. [Tyschoice2](#Tyschoice2)
